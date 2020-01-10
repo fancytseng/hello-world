@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Hi this is Fancy
+Hi this is Fancy!
